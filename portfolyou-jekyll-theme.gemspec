@@ -4,11 +4,11 @@ Gem::Specification.new do |spec|
   spec.authors                 = ["Youssef Raafat"]
   spec.email                   = ["YoussefRaafatNasry@gmail.com"]
 
-  spec.summary                 = "A beautiful portfolio Jekyll theme."
-  spec.homepage                = "https://github.com/YoussefRaafatNasry/portfolYOU"
-  spec.license                 = "MIT"
+  spec.summary                 = ""
+  spec.homepage                = ""
+  spec.license                 = ""
 
-  spec.metadata["plugin_type"] = "theme"
+  spec.metadata["plugin_type"] = ""
 
   spec.files                   = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
 
