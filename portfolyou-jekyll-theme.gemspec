@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name                    = "portfolyou-jekyll-theme"
+  spec.name                    = "Tekonora"
   spec.version                 = "2.3.0"
   spec.authors                 = ["Youssef Raafat"]
   spec.email                   = ["YoussefRaafatNasry@gmail.com"]
