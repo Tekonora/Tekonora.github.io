@@ -1,19 +1,19 @@
 ---
-title: What is version control?
-tags: [Version Control]
+title: Gõ cửa
+tags: [Nhảm nhí]
 style: fill
 color: secondary
 comments: true
 description: Benefits of version control and version control systems.
 ---
 
-Source: [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+Source: [Tại sao chúng ta lại thích phim kinh dị](https://www.atlassian.com/git/tutorials/what-is-version-control](https://vietcetera.com/vn/found-footage-khong-chi-la-xem-phim-kinh-di-day-la-trai-nghiem-noi-so)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:34e935dd-3108-40ef-bb3d-9ed01d977d6d/hero.svg?cdnVersion=la)
+![](https://wac-cdn.atlassian.com/dam/jcr:34e935dd-3108-40ef-bb3d-9ed01d977d6d/hero.svg?cdnVersion=la](https://vietcetera.com/vn/found-footage-khong-chi-la-xem-phim-kinh-di-day-la-trai-nghiem-noi-so)
 
-## Benefits of version control
+## Suy nghĩ về cơ hội
 
-Version control systems are a category of software tools that help a software team manage changes to source code over time. Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+Mình luôn bị lóa mắt bởi những con người thành công. Sự thực là vậy. "Tại sao họ lại có thể thành công ?", "Họ làm sao để có thể có được những cơ hội để làm được ước mơ của họ?". Muôn vàn câu hỏi bay trong đầu và câu đặc biệt khiến mình đau nhất chính 
 
 For almost all software projects, the source code is like the crown jewels - a precious asset whose value must be protected. For most software teams, the source code is a repository of the invaluable knowledge and understanding about the problem domain that the developers have collected and refined through careful effort. Version control protects source code from both catastrophe and the casual degradation of human error and unintended consequences.
 
