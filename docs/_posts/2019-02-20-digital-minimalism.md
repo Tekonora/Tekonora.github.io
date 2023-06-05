@@ -1,7 +1,7 @@
 ---
 title: Học tiếng anh qua phim
 tags: [English learning, Experience]
-style: 
+style:fill
 color:primary 
 HỌC TIẾNG ANH QUA PHIM
 
