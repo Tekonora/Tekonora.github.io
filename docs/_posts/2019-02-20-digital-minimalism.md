@@ -2,7 +2,7 @@
 title: Học tiếng anh qua phim
 tags: [English learning, Experience]
 style: 
-color: 
+color:primary 
 HỌC TIẾNG ANH QUA PHIM
 
 Ai cũng hỏi mình chuyện Tiếng Anh và trung tâm mình theo học. Nhiều bạn muốn rèn luyện thêm kĩ năng cho chính mình và có một số là phụ huynh hỏi cho bạn mình.  
